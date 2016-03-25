@@ -1,3 +1,3 @@
 markdown: redcarpet
-baseurl: /website
+baseurl: /~nm525
 exclude: ['Readme.md']
